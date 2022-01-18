@@ -43,7 +43,7 @@ body{
 } */
 #survey_form_container{
     width: 700px;    
-    margin-left: 20px;
+    margin-left: 0px;
     padding: 2px 5px;
     font-size: 1.2rem;
 }
