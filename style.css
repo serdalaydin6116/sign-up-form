@@ -14,6 +14,12 @@ body{
     margin-left: 0px;         
    
 }
+#header{
+    margin-left: 3px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+}
 
 #title{
     font-size: 3.6rem;       
@@ -31,12 +37,7 @@ body{
     
 }
 
-#header{
-    margin-left: 20px;
-    margin-bottom: 0px;
-    padding: 0px;
 
-}
 /*textarea{ width: 8.7rem;
     height: 2.5rem; 
   
